@@ -1,0 +1,16 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*_Venv/
+*-venv/
+*venv*/
+*Eenv/
+
+# Local data / editor artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
